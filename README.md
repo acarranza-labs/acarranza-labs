@@ -4,8 +4,8 @@
 ### Cybersecurity Engineer | Blue Team turned Red Team ⚔️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-carranza-barroso/)
-[![CV Español](https://img.shields.io/badge/CV-Español-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./cv/CV_Antonio_Carranza_ES.pdf)
-[![CV English](https://img.shields.io/badge/CV-English-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./cv/CV_Antonio_Carranza_EN.pdf)
+[![CV Español](https://img.shields.io/badge/CV-Español-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./CV/CV_Antonio_Carranza_ES.pdf)
+[![CV English](https://img.shields.io/badge/CV-English-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./CV/CV_Antonio_Carranza_EN.pdf)
 
 <br/>
 
