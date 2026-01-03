@@ -39,16 +39,15 @@
 
 ---
 
-### 🎯 2025 Roadmap & Certifications
+### 🎯 2026 Roadmap
 
 - [ ] 🏳️ **OSCP Certification** (Offensive Security Certified Professional)
-- [x] 🎓 **eJPT** (Junior Penetration Tester) - *In Progress/Done*
 - [ ] 🐍 Develop a custom C2 framework agent in Python
 - [ ] 📝 Publish 5 technical writeups (HTB/VulnHub)
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=acarranza-labs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=acarranza-labs&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acarranza-labs&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
