@@ -1,16 +1,21 @@
-## Hi there 👋
+# Antonio Carranza — Red Team / Offensive Security
 
-<!--
-**acarranza-labs/acarranza-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Cybersecurity engineer with SOC banking experience, transitioning to Red Team.
+Focused on web pentesting, attack automation and adversarial simulation.
 
-Here are some ideas to get you started:
+## Skills
+- Web Pentesting (SQLi, XSS, IDOR, auth bypass)
+- Python for recon & automation
+- Email & phishing analysis (offensive & defensive)
+- SIEM / WAF evasion basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- E-mailicioso — Email Forensic & Phishing Analysis Toolkit
+- (Next) Web Pentesting Lab
+- (Next) Active Directory Attacks Lab
+
+## Goals 2025
+- OSCP preparation
+- Build offensive tooling
+- Publish technical writeups
